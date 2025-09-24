@@ -1,12 +1,11 @@
-[최종발표자료_수정 (1).pdf](https://github.com/user-attachments/files/22508353/_.1.pdf)# 골댕타임 (Goldaeng Time)
+# 골댕타임 (Goldaeng Time)
 실종 반려동물 발견 및 매칭 플랫폼
-<img width="915" height="496" alt="image" src="https://github.com/user-attachments/assets/087a17f0-721e-48b2-8d92-693c0f1d4434" />
-
 **팀원:** 32212398 심예린, 32215080 박유빈
 
 ---
 
 ## 프로젝트 개요 
+<img width="915" height="496" alt="image" src="https://github.com/user-attachments/assets/087a17f0-721e-48b2-8d92-693c0f1d4434" />
 <img width="895" height="508" alt="image" src="https://github.com/user-attachments/assets/1e315d03-0a6f-4057-9434-b2d848a68c40" />
 
 반려동물 실종 시 전단지와 SNS에 의존하는 기존 방식의 한계를 극복하고, AI와 GPS 기반 위치 정보를 활용하여 실종 반려동물을 빠르고 효율적으로 찾을 수 있는 플랫폼을 개발하였습니다.  
@@ -88,8 +87,8 @@
 - 게시글 CRUD 및 댓글/답글 처리: 정상 작동
 - 게시글 스크랩 및 매칭 푸시 알림: 정상 작동 (유사도 85% 이상)
 - Swagger/Postman API 테스트 완료
-- <img width="680" height="617" alt="image" src="https://github.com/user-attachments/assets/2a666a0a-0045-4c0e-b309-e8c3eaacbc86" />
-- <img width="687" height="827" alt="image" src="https://github.com/user-attachments/assets/0cce9f0e-4c7c-43e9-8c6b-02a3c5f543f6" />
+ <img width="680" height="617" alt="image" src="https://github.com/user-attachments/assets/2a666a0a-0045-4c0e-b309-e8c3eaacbc86" />
+ <img width="687" height="827" alt="image" src="https://github.com/user-attachments/assets/0cce9f0e-4c7c-43e9-8c6b-02a3c5f543f6" />
 
 
 - Google Cloud Vision API 부하 테스트 및 MySQL 대용량 조회 테스트 완료
