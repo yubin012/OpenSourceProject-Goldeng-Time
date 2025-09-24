@@ -7,11 +7,9 @@
 ## 프로젝트 개요 
 <img width="915" height="496" alt="image" src="https://github.com/user-attachments/assets/087a17f0-721e-48b2-8d92-693c0f1d4434" />
 <img width="895" height="508" alt="image" src="https://github.com/user-attachments/assets/1e315d03-0a6f-4057-9434-b2d848a68c40" />
-
+<img width="871" height="480" alt="image" src="https://github.com/user-attachments/assets/0468e6d6-20aa-4b5e-8ff0-090857af8b40" />
 반려동물 실종 시 전단지와 SNS에 의존하는 기존 방식의 한계를 극복하고, AI와 GPS 기반 위치 정보를 활용하여 실종 반려동물을 빠르고 효율적으로 찾을 수 있는 플랫폼을 개발하였습니다.  
 서비스 이름 ‘골댕타임’은 골든타임과 반려동물 멍멍이(댕댕이)를 결합한 명칭입니다.
-<img width="871" height="480" alt="image" src="https://github.com/user-attachments/assets/0468e6d6-20aa-4b5e-8ff0-090857af8b40" />
-
 ---
 
 ## 주요 기능
